@@ -1,7 +1,7 @@
 # S.T.A.Y
 
 S.T.A.Y - Sistema de Gestión de Usuarios
-S.T.A.Y es una aplicación web para gestionar usuarios en línea. La aplicación proporciona una interfaz intuitiva para que los usuarios puedan registrarse, iniciar sesión y editar su perfil. También se admite la gestión de múltiples idiomas y la seguridad de la información del usuario.
+S.T.A.Y S.T.A.Y. es una aplicación de asistente personal de tecnología avanzada diseñada para mejorar el estilo de vida de los usuarios mediante la facilitación del uso y la interacción con diferentes tecnologías. Con una inteligencia artificial sofisticada, S.T.A.Y. puede aprender las preferencias y hábitos de los usuarios y proporcionar recomendaciones personalizadas para hacer un uso más eficiente y efectivo de sus dispositivos. Desde la configuración inicial de un nuevo dispositivo hasta la gestión y organización de múltiples tecnologías, S.T.A.Y. está ahí para ayudar a los usuarios a mejorar su vida diaria gracias al uso de la tecnología.
 
 Instalación
 
